@@ -17,7 +17,7 @@ I am a computer science student who loves building software that solves real pro
 
 **Languages:** Python, JavaScript, Bash, SQL
 **Frameworks and Libraries:** Flask, FastAPI, Node.js
-**Tools:** Docker, GitHub Actions, Terraform, Prometheus, Grafana
+**Tools:** Docker, GitHub Actions, Terraform
 **Cloud:** AWS, Google Cloud
 **Security Tools:** Nmap, Netcat, Tshark, OpenSSL, Wget, OpenSSH
 **Focus Areas:** Backend development, cloud software, automation, system reliability
@@ -34,9 +34,6 @@ Automates device configuration backups and stores them in cloud storage.
 
 **SRE Monitoring Demo**
 A small application that demonstrates metrics, health checks, and alerting.
-
-**Security Scanner**
-A basic tool that checks for publicly exposed endpoints or services.
 
 ---
 
