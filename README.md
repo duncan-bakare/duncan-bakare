@@ -15,7 +15,7 @@ I am a computer science student who loves building software that solves real pro
 
 ## Tech Stack 🛠️
 
-**Languages:** Python, JavaScript, Bash, SQL
+**Languages:** Python, Java, JavaScript, Bash, SQL
 **Frameworks and Libraries:** Flask, FastAPI, Node.js
 **Tools:** Docker, GitHub Actions, Terraform
 **Cloud:** AWS, Google Cloud
