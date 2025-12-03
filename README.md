@@ -18,7 +18,7 @@ I am a computer science student who loves building software that solves real pro
 **Languages:** Python, Java, JavaScript, Bash, SQL
 **Frameworks and Libraries:** Flask, FastAPI, Node.js
 **Tools:** Docker, GitHub Actions, Terraform
-**Cloud:** AWS, Google Cloud
+**Cloud:** AWS, Google Cloud, Azure
 **Security Tools:** Nmap, Netcat, Tshark, OpenSSL, Wget, OpenSSH
 **Focus Areas:** Backend development, cloud software, automation, system reliability
 
@@ -34,6 +34,9 @@ Automates device configuration backups and stores them in cloud storage.
 
 **SRE Monitoring Demo**
 A small application that demonstrates metrics, health checks, and alerting.
+
+**Job Queue Project**
+Simulates a backend job queue where tasks are submitted and processed asynchronously by multiple worker threads, demonstrating concurrency, thread safety, and job state management
 
 ---
 
