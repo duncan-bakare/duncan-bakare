@@ -1,4 +1,4 @@
-# Hi, I am Duncan 👋
+# Hi, my name is Duncan 👋
 
 I am a computer science student who loves building software that solves real problems. I enjoy writing clean code, keeping things simple and easy to understand, and learning how everything fits together beneath the surface.
 
@@ -51,7 +51,7 @@ Simulates a backend job queue where tasks are submitted and processed asynchrono
 
 ## About me 📚
 
-Based in Ireland. Interested aviation, strength training, and understanding complex systems.
+Irish. Interested aviation, strength training, and understanding complex systems.
 I enjoy literature, clear thinking, and keeping my software as simple as possible.
 I like clarity, structure, and long term growth through steady, simple improvements.
 
