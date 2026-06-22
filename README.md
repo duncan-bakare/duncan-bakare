@@ -1,10 +1,10 @@
-# Hi, my name is Duncan 👋
+# Hi, I'm Duncan 👋
 
 I am a computer science student who loves building software that solves real problems. I enjoy writing clean code, keeping things simple and easy to understand, and learning how everything fits together beneath the surface.
 
 ---
 
-## What I am working on 🚀
+## What I'm currently working on 🚀
 
 * Improving my personal finance tracker with cleaner architecture, better data handling, and automated deployment.
 * Building personal projects that start simple and grow over time until I can design something that impacts the world in a meaningful way.
