@@ -1,65 +1,45 @@
 # Duncan Bakare
 
-I'm a final-year Computer Science (Cloud Computing) student at Technological University Dublin, building software that solves real problems. I focus on clean code, system reliability, and understanding how everything works beneath the surface. I'm actively building a portfolio of production-ready projects to transition into backend and cloud engineering roles.
-
----
+Final-year Computer Science (Cloud Computing) student at Technological University Dublin. I build software that solves real problems, with a focus on clean code, reliability, and understanding how things work beneath the surface. Building a portfolio of production-ready projects to move into backend and cloud engineering roles.
 
 ## 🚀 Featured Projects
 
-**NewsLens** — AI-powered news bias and credibility analyser  
-*Python, FastAPI, React, Machine Learning*  
-A flagship portfolio project that analyzes news articles for bias and credibility. Demonstrates full-stack development, ML integration, and deployment at scale.  
-[Live](https://newslens-tawny.vercel.app) | [GitHub](https://github.com/duncan-bakare/newslens)
+**NewsLens — AI-powered news bias and credibility analyser**
+`Python` `FastAPI` `React` `Machine Learning`
+Analyses news articles for bias and credibility. Full-stack development, ML integration, and live deployment.
+[Live](https://newslens-tawny.vercel.app/) | [GitHub](https://github.com/duncan-bakare/newslens)
 
-**Distributed File System (Team Project)**  
-*Java, MQTT, Pub-Sub Messaging, Concurrency*  
-Built a distributed file system with pub-sub messaging architecture. Highlights: handling distributed state, asynchronous processing, and fault tolerance.
+**River Level Forecasting — MLOps Pipeline**
+`Python` `AWS (S3, Lambda)` `MLOps`
+End-to-end forecasting pipeline on Irish public OPW river-gauge data, starting with the River Dodder and extending to the Suir. Covers data ingestion, model training, and a live dashboard on a low-cost serverless architecture.
 
-**Cloud Policy Enforcement System** (Final-Year Project)  
-*OPA, Terraform, Cloud Architecture, Python*  
-Investigating pre-deployment policy enforcement (OPA) vs post-deployment sweepers for ephemeral cloud environments. Bridges cloud infrastructure and security automation.
-
-**AdVariant** — Generative Media Ad Pipeline  
-*Python, Generative AI, Pipeline Design*  
-A focused project exploring generative media for ad creation and optimization. Demonstrates applied AI and practical pipeline thinking.
-
----
+**Distributed File System (Team Project)**
+`Java` `MQTT` `Pub-Sub` `Concurrency`
+Distributed file system with pub-sub messaging. Covers distributed state, asynchronous processing, and fault tolerance.
 
 ## 🔧 Currently Building
 
-* **Personal Finance Tracker** — Backend service for transaction storage, spending analysis, and end-to-end deployment. Focus on clean architecture and automated deployments.
-* **Strengthening algorithms & system design** through deliberate practice and real-world application.
-* **Backend and networking fundamentals** to build and debug with confidence in production systems.
-
----
+- **Cloud Policy Enforcement (Final-Year Project)** — comparing pre-deployment policy enforcement (OPA) with post-deployment sweepers for ephemeral cloud environments. `OPA` `Terraform` `Python`
+- Strengthening algorithms, system design, and backend/networking fundamentals through deliberate practice.
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java, JavaScript, Bash, SQL  
-**Backend & Frameworks:** Flask, FastAPI, Node.js  
-**Infrastructure & DevOps:** Docker, GitHub Actions, Terraform, AWS, Google Cloud, Azure  
-**Tools & Utilities:** Nmap, Netcat, Tshark, OpenSSL, OpenSSH  
-**Focus Areas:** Backend development, cloud systems, automation, system reliability, distributed systems
-
----
+- **Languages:** Python, Java, JavaScript, Bash, SQL
+- **Backend:** Flask, FastAPI, Node.js
+- **Infrastructure & DevOps:** Docker, GitHub Actions, Terraform, AWS, Google Cloud, Azure
+- **Tools:** Nmap, Netcat, Tshark, OpenSSL, OpenSSH
+- **Focus areas:** Backend development, cloud systems, automation, distributed systems
 
 ## 🎯 What I'm Pursuing
 
-* Become a strong backend or cloud-focused software engineer with deep expertise in system design and reliability.
-* Build systems that are reliable, maintainable, and scalable — systems you'd trust in production.
-* Master distributed systems, networking, debugging, and clean architecture.
-* Grow through real, meaningful practice and deliberate problem-solving.
-
----
+Becoming a strong backend or cloud engineer with deep expertise in system design and reliability: building systems I'd trust in production, and mastering distributed systems, networking, and clean architecture.
 
 ## 📚 About Me
 
-Irish developer interested in aviation, strength training, and understanding complex systems. I value clarity, structure, and incremental growth. I believe great software comes from understanding the fundamentals and keeping things simple.
-
----
+Irish developer interested in aviation, strength training, and understanding complex systems. I value clarity, structure, and incremental growth, and believe great software comes from knowing the fundamentals and keeping things simple.
 
 ## 📬 Get in Touch
 
-* **Email:** duncanbakare123@gmail.com
-* **GitHub:** github.com/duncan-bakare
-* **LinkedIn:** linkedin.com/in/duncan-bakare
+- Email: [duncanbakare123@gmail.com](mailto:duncanbakare123@gmail.com)
+- GitHub: [github.com/duncan-bakare](https://github.com/duncan-bakare)
+- LinkedIn: [linkedin.com/in/duncan-bakare](https://linkedin.com/in/duncan-bakare)
