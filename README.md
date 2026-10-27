@@ -1,6 +1,6 @@
 # Duncan Bakare
 
-Final-year Computer Science (Cloud Computing) student at Technological University Dublin. I build software that solves real problems, with a focus on clean code, reliability, and understanding how things work beneath the surface. Building a portfolio of production-ready projects to move into backend and cloud engineering roles.
+Hi, I'm Duncan 👋 A final-year Computer Science (Cloud Computing) student at Technological University Dublin, graduating in 2027. I like working across the stack where AI meets cloud, from ML models and data pipelines to the infrastructure that runs them. Right now I'm building projects that take ideas all the way from prototype to deployment.
 
 ## 🚀 Featured Projects
 
@@ -24,19 +24,19 @@ Distributed file system with pub-sub messaging. Covers distributed state, asynch
 
 ## 💻 Tech Stack
 
-- **Languages:** Python, Java, JavaScript, Bash, SQL
-- **Backend:** Flask, FastAPI, Node.js
-- **Infrastructure & DevOps:** Docker, GitHub Actions, Terraform, AWS, Google Cloud, Azure
-- **Tools:** Nmap, Netcat, Tshark, OpenSSL, OpenSSH
+- **Languages:** Python, JavaScript, Bash, SQL
+- **Backend & Frontend:** FastAPI, Flask, Node.js, React
+- **Cloud & DevOps:** AWS (S3, Lambda), Docker, GitHub Actions, Terraform, Google Cloud, Azure
+- **ML & Policy:** MLOps pipelines, Open Policy Agent (OPA)
 - **Focus areas:** Backend development, cloud systems, automation, distributed systems
 
 ## 🎯 What I'm Pursuing
 
-Becoming a strong backend or cloud engineer with deep expertise in system design and reliability: building systems I'd trust in production, and mastering distributed systems, networking, and clean architecture.
+A software engineering role where I can work across AI, cloud, and application development, and keep learning wherever the problems take me. I want to build things that ship and keep running, and I'm happiest when a project pushes me into a new part of the stack.
 
 ## 📚 About Me
 
-Irish developer interested in aviation, strength training, and understanding complex systems. I value clarity, structure, and incremental growth, and believe great software comes from knowing the fundamentals and keeping things simple.
+I'm a Dublin-based developer who enjoys figuring out how complex things fit together, whether that's a cloud architecture or an aircraft. Outside of code you'll find me at the gym or reading about aviation. I like keeping things simple, learning by building, and picking up whatever a project needs.
 
 ## 📬 Get in Touch
 
